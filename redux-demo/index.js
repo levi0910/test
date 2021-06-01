@@ -37,6 +37,8 @@ const unsubscribe = store.subscribe(()=>{
     console.log('updated state is ',store.getState())
 })
 
+console.log('unsubscribe is ',unsubscribe)
+
 store.dispatch(buyCake())
 store.dispatch(buyCake())
 store.dispatch(buyCake())
