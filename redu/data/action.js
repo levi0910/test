@@ -1,0 +1,6 @@
+module.exports= {
+    INCREMENT : 'INCREMENT',
+    DECREMENT : 'DECREMENT',
+    SET_NAME : 'SET_NAME',
+    SET_DESCRIPTION : 'SET_DESCRIPTION'
+}

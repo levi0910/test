@@ -1,0 +1,12 @@
+{
+  "name": "redux-demo",
+  "version": "1.0.0",
+  "description": "redux demo-4",
+  "main": "index.js",
+  "scripts": {
+    "start": "babel-node index.js"
+  },
+  "author": "brickspert",
+  "license": "ISC",
+  "dependencies": {}
+}
